@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'NexaExtraLight';
+  src: url('NexaExtraLight.eot');
+  src: url('NexaExtraLight.eot') format('embedded-opentype'),
+       url('NexaExtraLight.woff2') format('woff2'),
+       url('NexaExtraLight.woff') format('woff'),
+       url('NexaExtraLight.ttf') format('truetype'),
+       url('NexaExtraLight.svg#NexaExtraLight') format('svg');
+}
+@font-face {
+  font-family: 'NexaHeavy';
+  src: url('NexaHeavy.eot');
+  src: url('NexaHeavy.eot') format('embedded-opentype'),
+       url('NexaHeavy.woff2') format('woff2'),
+       url('NexaHeavy.woff') format('woff'),
+       url('NexaHeavy.ttf') format('truetype'),
+       url('NexaHeavy.svg#NexaHeavy') format('svg');
+}
+@font-face {
+  font-family: 'Nexa ';
+  src: local('Nexa  XBold'), local('Nexa--XBold'),
+      url('Nexa-XBold.woff2') format('woff2'),
+      url('Nexa-XBold.woff') format('woff'),
+      url('Nexa-XBold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
